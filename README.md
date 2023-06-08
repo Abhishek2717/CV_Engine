@@ -4,7 +4,7 @@ The CV-Engine is an online job recruitment portal for colleges that serves as a 
 
 ----
 
-* Project Report: https://drive.google.com/file/d/1LRTWqghnWzresHfnYaRrrC1lGNUrX5KA/view?usp=sharing
+* Project Report: [https://drive.google.com/file/d/1LRTWqghnWzresHfnYaRrrC1lGNUrX5KA/view?usp=sharing](https://drive.google.com/file/d/1te26p4yFHB5VYZfmLEBoyjgaA03b6FZV/view?usp=sharing)
 * Live Azure Deployment Address: http://20.196.213.24:8000/
 ----
 
