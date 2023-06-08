@@ -32,7 +32,7 @@ app.use(sessions({
     secret: "theBookTown",
     saveUninitialized:true,
     cookie: { maxAge: oneDay },
-    resave: false
+    resave: true
 }));
 
 
@@ -74,7 +74,7 @@ app.use("/notice", noticeRoutes);
 
 // Starting a server
 app.listen(port, () => {
-    console.log(`The Abhishek's server is listening at http://localhost:${port}`)
+    console.log(`The BookTown is listening at http://localhost:${port}`)
 })
 
 app.get('/', (req, res) => {
