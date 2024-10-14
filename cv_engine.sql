@@ -151,7 +151,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `first_name`, `last_name`, `password`, `gender`, `dob`, `email`, `phone`, `address`, `city`, `state`, `pin`, `role`, `xth`, `xii`, `curr`, `resume`) VALUES
 (1, 'Admin', 'User', '$2b$10$wcgjJphHbf/wCY8ZN6ege.rTd.a5vJh8DaANGKFTQrgmsPckSTvKW', 'Male', '2001-04-16', 'admin@cvengine.com', '+918126967071', 'GEU, Clement Town, Bell Road', 'Dehradun', 'Uttrakhand', '2480002', 3, 0, 0, 0, 'NA'),
 (2, 'Shekhar', 'Saxena', '$2b$10$wcgjJphHbf/wCY8ZN6ege.rTd.a5vJh8DaANGKFTQrgmsPckSTvKW', 'Male', '2002-02-16', 'shekharsaxena316@gmail.com', '+919412446081', '528, Chahbai, Near Sankat Mochan Mandir', 'Bareilly', 'Uttar Pradesh', '243001', 0, 88, 91, 97, 'https://tinyurl.com/shekhar316Resume');
-
+(3, 'Abhishek', 'Pal', 'Abhishek@1', 'Male', '2002-02-16', 'isshuekumar@gmail.com', '+919412446081', '528, Chahbai, Near Sankat Mochan Mandir', 'Bareilly', 'Uttar Pradesh', '243001', 0, 88, 91, 97, 'https://tinyurl.com/shekhar316Resume');
 --
 -- Indexes for dumped tables
 --
